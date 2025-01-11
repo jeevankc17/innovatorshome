@@ -40,7 +40,7 @@ export default function Header() {
             <div className="flex items-center">
               <div className="flex-shrink-0">
                 <Image
-                  className="h-8 w-auto transition-opacity duration-300"
+                  className="h-12 w-auto transition-opacity duration-300"
                   src="/logo.png"
                   alt="Innovators Home"
                   width={32}

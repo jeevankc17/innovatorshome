@@ -58,22 +58,6 @@ export default function Footer() {
                 Banasthali, Kathmandu
               </li>
             </ul>
-            <div className="mt-6">
-              <a href="https://www.youtube.com/@innovatorshome" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center h-10 w-10 rounded-lg bg-red-600 hover:bg-red-700 transition duration-300">
-                <Youtube className="h-5 w-5 text-white" />
-              </a>
-            </div>
-            <div className="flex space-x-4 mt-6">
-              <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
-                <Facebook className="h-6 w-6 text-green-500" />
-              </a>
-              <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
-                <Linkedin className="h-6 w-6 text-green-500" />
-              </a>
-              <a href="https://wa.me/your-phone-number" target="_blank" rel="noopener noreferrer">
-                <Phone className="h-6 w-6 text-green-500" />
-              </a>
-            </div>
           </div>
         </div>
 
