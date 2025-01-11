@@ -154,10 +154,10 @@ export default function Contact() {
                 <a href="https://www.youtube.com/@innovatorshome" target="_blank" rel="noopener noreferrer" className="h-12 w-12 bg-red-600 rounded-lg flex items-center justify-center hover:bg-red-700 transition duration-300">
                   <Youtube className="h-6 w-6 text-white" />
                 </a>
-                <a href="https://www.youtube.com/@innovatorshome" target="_blank" rel="noopener noreferrer" className="h-12 w-12 bg-red-600 rounded-lg flex items-center justify-center hover:bg-red-700 transition duration-300">
+                <a href="https://www.youtube.com/@innovatorshome" target="_blank" rel="noopener noreferrer" className="h-12 w-12 bg-blue-600 rounded-lg flex items-center justify-center hover:bg-red-700 transition duration-300">
                   <Facebook className="h-6 w-6 text-white" />
                 </a>
-                <a href="https://www.youtube.com/@innovatorshome" target="_blank" rel="noopener noreferrer" className="h-12 w-12 bg-red-600 rounded-lg flex items-center justify-center hover:bg-red-700 transition duration-300">
+                <a href="https://www.youtube.com/@innovatorshome" target="_blank" rel="noopener noreferrer" className="h-12 w-12 bg-blue-600 rounded-lg flex items-center justify-center hover:bg-red-700 transition duration-300">
                   <Linkedin className="h-6 w-6 text-white" />
                 </a>
               </div>
@@ -168,4 +168,3 @@ export default function Contact() {
     </section>
   )
 }
-
