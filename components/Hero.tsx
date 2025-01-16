@@ -20,7 +20,7 @@ export default function Hero() {
               Explore Courses
             </Link>
             <Link 
-              href="https://nec-license.gitbook.io/computer" 
+              href="https://innovatorshome.tech/docs" 
               className="bg-neutral-800 text-white px-6 sm:px-8 py-3 rounded-full font-medium hover:bg-neutral-700 transition duration-300 text-center"
             >
               View Documentation
