@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+      {
+        "source": "/",
+        "destination": "https://innovatorshome-cjqd55dq0-jeevankc17s-projects.vercel.app"
+      },
+      {
+        "source": "/docs/:path*",
+        "destination": "https://nec-license-d312e04va-jeevankc17s-projects.vercel.app/docs/:path*"
+      }
+    ]
+  }
