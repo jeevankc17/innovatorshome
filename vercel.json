@@ -6,7 +6,7 @@
       },
       {
         "source": "/docs/:path*",
-        "destination": "https://nec-license.vercel.app/docs/:path*"
+        "destination": "nec-license-docs.vercel.app/docs/:path*"
       }
     ]
   }
