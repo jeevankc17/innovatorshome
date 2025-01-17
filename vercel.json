@@ -5,6 +5,10 @@
       "destination": "https://innovatorshome.vercel.app/"
     },
     {
+      "source": "/docs",
+      "destination": "https://nec-license-docs.vercel.app/docs"
+    },
+    {
       "source": "/docs/:path*",
       "destination": "https://nec-license-docs.vercel.app/docs/:path*"
     }
