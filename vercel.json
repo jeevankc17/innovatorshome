@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://www.innovatorshome.tech/"
+      "destination": "https://innovatorshome.vercel.app/"
     },
     {
       "source": "/docs/:path*",
