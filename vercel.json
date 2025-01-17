@@ -1,12 +1,12 @@
 {
-    "rewrites": [
-      {
-        "source": "/",
-        "destination": "https://innovatorshome.vercel.app/"
-      },
-      {
-        "source": "/docs/:path*",
-        "destination": "nec-license-docs.vercel.app/docs/:path*"
-      }
-    ]
-  }
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "https://www.innovatorshome.tech/"
+    },
+    {
+      "source": "/docs/:path*",
+      "destination": "https://nec-license-docs.vercel.app/docs/:path*"
+    }
+  ]
+}
