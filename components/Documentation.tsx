@@ -79,7 +79,7 @@ export default function Documentation() {
               </div>
             </div>
             <div className="mt-8">
-              <Link href="https://nec-license.gitbook.io/computer" target="_blank" className="inline-flex items-center px-6 py-3 bg-green-500 text-white font-medium rounded-lg hover:bg-green-600 transition duration-300">
+              <Link href="https://innovatorshome.tech/docs" target="_blank" className="inline-flex items-center px-6 py-3 bg-green-500 text-white font-medium rounded-lg hover:bg-green-600 transition duration-300">
                 Open Documentation
                 <svg className="ml-2 -mr-1 h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
