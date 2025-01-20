@@ -3,7 +3,7 @@ import { Book, Video } from 'lucide-react'
 
 export default function Resources() {
   return (
-    <section id="resources" className="py-20 bg-neutral-900">
+    <section id="resources" className="py-20 bg-black">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16 animate__animated animate__fadeInUp">
           <h2 className="text-4xl font-bold text-white mb-4">Learning Resources</h2>
@@ -11,7 +11,7 @@ export default function Resources() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
-          <div className="bg-neutral-800 rounded-xl p-8 transform hover:-translate-y-2 transition duration-300 animate__animated animate__fadeInLeft">
+          <div className="bg-black rounded-xl p-8 transform hover:-translate-y-2 transition duration-300 animate__animated animate__fadeInLeft">
             <div className="flex items-start">
               <div className="flex-shrink-0">
                 <div className="h-12 w-12 bg-green-500 rounded-lg flex items-center justify-center">
@@ -51,7 +51,7 @@ export default function Resources() {
             </div>
           </div>
 
-          <div className="bg-neutral-800 rounded-xl p-8 transform hover:-translate-y-2 transition duration-300 animate__animated animate__fadeInRight">
+          <div className="bg-black rounded-xl p-8 transform hover:-translate-y-2 transition duration-300 animate__animated animate__fadeInRight">
             <div className="flex items-start">
               <div className="flex-shrink-0">
                 <div className="h-12 w-12 bg-green-500 rounded-lg flex items-center justify-center">

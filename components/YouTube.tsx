@@ -73,7 +73,7 @@ export default function YouTube() {
               <span className="block text-sm text-neutral-600">Access</span>
             </div>
           </div>
-          <Link href="https://www.youtube.com/@innovatorshome/videos" className="inline-flex items-center px-8 py-3 bg-neutral-900 text-white rounded-lg hover:bg-neutral-800 transition duration-300">
+          <Link href="https://www.youtube.com/@innovatorshome/videos" className="inline-flex items-center px-8 py-3 bg-black text-white rounded-lg hover:bg-black transition duration-300">
             View All Videos
             <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>

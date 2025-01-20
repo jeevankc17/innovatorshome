@@ -4,7 +4,7 @@ import { Mail, MapPin, Youtube, Facebook, Linkedin, Phone } from 'lucide-react'
 
 export default function Footer() {
   return (
-    <footer id="footer" className="bg-neutral-900 pt-16 pb-8">
+    <footer id="footer" className="bg-black pt-16 pb-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
           {/* Company Info */}
@@ -41,7 +41,7 @@ export default function Footer() {
               <li><Link href="#" className="text-gray-400 hover:text-green-500 transition duration-300">Engineering License</Link></li>
               <li><Link href="#" className="text-gray-400 hover:text-green-500 transition duration-300">Masters Entrance</Link></li>
               <li><Link href="#" className="text-gray-400 hover:text-green-500 transition duration-300">Loksewa Exam</Link></li>
-              <li><Link href="https://nec-license.gitbook.io/computer" className="text-gray-400 hover:text-green-500 transition duration-300">Study Materials</Link></li>
+              <li><Link href="https://exam.innovatorshome.tech" className="text-gray-400 hover:text-green-500 transition duration-300">Study Materials</Link></li>
             </ul>
           </div>
 
@@ -51,7 +51,7 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-center text-gray-400">
                 <Mail className="h-5 w-5 mr-3 text-green-500" />
-                contact@innovatorshome.com
+                contact@innovatorshome.tech
               </li>
               <li className="flex items-center text-gray-400">
                 <MapPin className="h-5 w-5 mr-3 text-green-500" />

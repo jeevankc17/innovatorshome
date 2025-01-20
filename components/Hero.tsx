@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export default function Hero() {
   return (
-    <section id="hero" className="pt-8 sm:pt-16 min-h-screen sm:min-h-[70vh] bg-neutral-900 relative overflow-hidden">
+    <section id="hero" className="pt-8 sm:pt-16 min-h-screen sm:min-h-[70vh] bg-black relative overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between py-12 sm:py-20 relative z-10">
         <div className="w-full md:w-1/2 text-center md:text-left animate__animated animate__fadeInLeft">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 sm:mb-6">
@@ -20,8 +20,8 @@ export default function Hero() {
               Explore Courses
             </Link>
             <Link 
-              href="https://innovatorshome.tech/docs" 
-              className="bg-neutral-800 text-white px-6 sm:px-8 py-3 rounded-full font-medium hover:bg-neutral-700 transition duration-300 text-center"
+              href="https://exam.innovatorshome.tech" 
+              className="bg-black text-white px-6 sm:px-8 py-3 rounded-full font-medium hover:bg-black transition duration-300 text-center"
             >
               View Documentation
             </Link>

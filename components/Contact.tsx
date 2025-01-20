@@ -106,7 +106,7 @@ export default function Contact() {
 
           {/* Contact Information */}
           <div className="space-y-8 animate__animated animate__fadeInRight">
-            <div className="bg-neutral-900 rounded-xl p-8">
+            <div className="bg-black rounded-xl p-8">
               <h3 className="text-2xl font-bold text-white mb-6">Contact Information</h3>
               
               <div className="space-y-6">
@@ -148,7 +148,7 @@ export default function Contact() {
               </div>
             </div>
 
-            <div className="bg-neutral-900 rounded-xl p-8">
+            <div className="bg-black rounded-xl p-8">
               <h3 className="text-2xl font-bold text-white mb-6">Follow Us</h3>
               <div className="flex space-x-4">
                 <a href="https://www.youtube.com/@innovatorshome" target="_blank" rel="noopener noreferrer" className="h-12 w-12 bg-red-600 rounded-lg flex items-center justify-center hover:bg-red-700 transition duration-300">

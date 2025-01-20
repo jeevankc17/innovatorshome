@@ -4,7 +4,7 @@ import { Globe, Book, Sliders } from 'lucide-react'
 
 export default function About() {
   return (
-    <section id="about" className="py-20 bg-neutral-900">
+    <section id="about" className="py-20 bg-black">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="animate__animated animate__fadeInLeft">
@@ -51,22 +51,22 @@ export default function About() {
           </div>
 
           <div className="space-y-8 animate__animated animate__fadeInRight">
-            <div className="bg-neutral-800 rounded-xl p-8">
+            <div className="bg-black rounded-xl p-8">
               <h3 className="text-2xl font-bold text-white mb-4">Our Location</h3>
               <p className="text-gray-300 mb-4">Banasthali, Kathmandu, Nepal</p>
               <div className="grid grid-cols-2 gap-4 text-center">
-                <div className="bg-neutral-700 rounded-lg p-4">
+                <div className="bg-black rounded-lg p-4">
                   <div className="text-3xl font-bold text-green-500 mb-2">3.68K+</div>
                   <div className="text-sm text-gray-400">YouTube Subscribers</div>
                 </div>
-                <div className="bg-neutral-700 rounded-lg p-4">
+                <div className="bg-black rounded-lg p-4">
                   <div className="text-3xl font-bold text-green-500 mb-2">114+</div>
                   <div className="text-sm text-gray-400">Video Lectures</div>
                 </div>
               </div>
             </div>
 
-            <div className="bg-neutral-800 rounded-xl p-8">
+            <div className="bg-black rounded-xl p-8">
               <h3 className="text-2xl font-bold text-white mb-4">Get in Touch</h3>
               <p className="text-gray-300 mb-6">Have questions? We're here to help!</p>
               <Link href="#contact" className="inline-flex items-center px-6 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 transition duration-300">
