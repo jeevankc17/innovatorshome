@@ -21,7 +21,7 @@ export default function Hero() {
             </Link>
             <Link 
               href="https://exam.innovatorshome.tech" 
-              className="bg-green-1000 text-white px-6 sm:px-8 py-3 rounded-full font-medium hover:bg-black transition duration-300 text-center"
+              className="bg-green-500 text-white px-6 sm:px-8 py-3 rounded-full font-medium hover:bg-black transition duration-300 text-center"
             >
               View Documentation
             </Link>
